@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>335B4FC6-607E-4E9E-8881-D96C624BFFD6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BKTabBarView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D517935FC6B67688E09FBEAEBB19C72B697EFCB</key>
+		<string>https://github.com/boboanan/BKTabBarView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BKTabBarView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D517935FC6B67688E09FBEAEBB19C72B697EFCB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/boboanan/BKTabBarView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D517935FC6B67688E09FBEAEBB19C72B697EFCB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D517935FC6B67688E09FBEAEBB19C72B697EFCB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BKTabBarView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

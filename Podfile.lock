@@ -1,0 +1,22 @@
+PODS:
+  - FSCalendar (0.6.0)
+  - KRLCollectionViewGridLayout (0.4.0)
+  - pop (1.0.7)
+  - SSLunarDate (0.0.1)
+  - XHRealTimeBlur (1.7)
+
+DEPENDENCIES:
+  - FSCalendar
+  - KRLCollectionViewGridLayout
+  - pop
+  - SSLunarDate
+  - XHRealTimeBlur
+
+SPEC CHECKSUMS:
+  FSCalendar: 281618e52b85b8f85021ac30a99beaa37ac19a08
+  KRLCollectionViewGridLayout: e805613ef7ba82c2b226faec87c1c16e1ebf07e4
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  SSLunarDate: d5d7d581f7e7e157c8d704a5f053b4ebcf760bba
+  XHRealTimeBlur: 661fadd5691ba2d349758e8fd5fbdb499ac55f8c
+
+COCOAPODS: 0.37.2

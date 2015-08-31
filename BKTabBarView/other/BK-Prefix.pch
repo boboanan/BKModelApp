@@ -1,0 +1,43 @@
+//
+//  BK-Prefix.pch
+//  BKV2EX
+//
+//  Created by 锄禾日当午 on 15/7/17.
+//  Copyright (c) 2015年 B&K. All rights reserved.
+//
+
+#ifndef BKV2EX_BK_Prefix_pch
+#define BKV2EX_BK_Prefix_pch
+
+#import "UIView+Extension.h"
+#import "UIBarButtonItem+Extension.h"
+#import "UIWindow+Extension.h"
+#import "NSDate+Extension.h"
+#import "NSString+Extension.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "NSString+Hash.h"
+ #import "UIImage+UzysExtension.h"
+
+#define BKNotificationCenter [NSNotificationCenter defaultCenter]
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define BKColor(r,g,b,a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:a]
+
+#define BKRandomColor BKColor(arc4random_uniform(256),arc4random_uniform(256),arc4random_uniform(256),1.0)
+
+#define BKColorBlue BKColor(91,150,248,1)
+
+#define BKColorPink BKColor(251,107,155,1)
+
+#define NavigationBarHeight 64
+
+#ifdef DEBUG //处于开发阶段
+#define BKLog(...) NSLog(__VA_ARGS__)
+#else // 处于发布阶段
+#define BKLog(...)
+#endif
+
+
+#endif
